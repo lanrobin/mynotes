@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "怎么赌财报？.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -195,10 +195,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ee996e71247077f",
+  "active": "513868e5d1a32a89",
   "lastOpenFiles": [
     "README.md",
     "怎么赌财报？.md"
